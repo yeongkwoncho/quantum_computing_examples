@@ -1,0 +1,7 @@
+# Python 3.12; versions this was tested with
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.11.2
+qiskit==2.6.2
+pennylane==0.45.1
+qutip==5.3.1
