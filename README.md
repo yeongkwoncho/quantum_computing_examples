@@ -7,6 +7,7 @@ reports how far the quantum result is from the exact one.
 | Example | Model | Libraries | Check |
 |---|---|---|---|
 | [`bose_glass_columnar/`](bose_glass_columnar/) | Superconductor with columnar defects → Bose glass | exact diagonalization, Qiskit, PennyLane, QuTiP | twist energy, circuits vs ED: 8.5e-4 |
+| [`pasqal/`](pasqal/) | Neutral atoms: first job, Rydberg Z2 crystal, Maximum Independent Set | Pulser, Pasqal Cloud, QuTiP, Qiskit | all three **PASS on Pasqal Cloud's free emulator EMU_FREE** (not a real QPU) |
 
 More examples will be added.
 

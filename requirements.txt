@@ -5,3 +5,7 @@ matplotlib==3.11.2
 qiskit==2.6.2
 pennylane==0.45.1
 qutip==5.3.1
+# Pasqal examples
+pulser==1.10.0
+pulser-simulation==1.10.0
+pasqal-cloud==0.24.0
